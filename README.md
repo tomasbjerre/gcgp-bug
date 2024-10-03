@@ -1,0 +1,1 @@
+https://discuss.gradle.org/t/using-a-released-plugin-when-building-the-same-plugin-causes-error/49554
