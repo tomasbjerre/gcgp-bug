@@ -1,4 +1,4 @@
 plugins {
-  id "se.bjurr.gitchangelog.git-changelog-gradle-plugin" version "2.2.2"
+	id "se.bjurr.gitchangelog.git-changelog-gradle-plugin" version "2.2.1"
 }
 
